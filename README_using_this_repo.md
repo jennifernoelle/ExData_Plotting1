@@ -49,4 +49,4 @@ This script will create the four desired plots in your working directory in file
 
 **6. plot1.png...plot4.png**
 
-These files contain the plots produced by the R scripts described above; this is what you should have after running the code as described in steps five and six. 
+These files contain the plots produced by the R scripts described above; this is what you should have after running the code as described in steps four and five. 
