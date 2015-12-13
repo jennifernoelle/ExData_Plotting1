@@ -1,6 +1,6 @@
 #README_using_this_repo
 
-This repository contains the following files: README.md, unnamed-chunk-2.png...unnamed-chunk-5.png, README_using_this_repo, loaddata.R, plot1.R...plot4.R, and plot1.png...plot4.png. 
+This repository contains the following files: README.md, unnamed-chunk-2.png...unnamed-chunk-5.png (in the folder "figures"), README_using_this_repo, loaddata.R (in the folder "R_files"), plot1.R...plot4.R (in the folder "R_files"), and plot1.png...plot4.png (in the folder "plots"). 
 
 **1. README.md**
 
