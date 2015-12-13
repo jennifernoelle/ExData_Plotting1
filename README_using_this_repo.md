@@ -18,7 +18,7 @@ This file contains the instructions for using the code in this repo to reconstru
 
 This file contains the code to load the Electric power consumption data. This is a script written in the R programming language, tested using R Version 3.2.1 on a Windows 7 machine. 
 
-To use the script, follow these instructions:
+To use the script:
  
 1. Place the loaddata.R, and plot1.R...plot4.R files in your intended working directory.
 2. Open your R programming console or IDE such as RSudio. 
@@ -35,7 +35,8 @@ The script will load and clean the data set, putting it in your R console in the
 
 These files contain the code to produce the desired plots based on the Electric power consumption data. This is a script written in the R programming language, tested using R Version 3.2.1 on a Windows 7 machine. 
 
-To use the script, follow these instructions:
+To use the scripts:
+
 1. In your R programming console or IDE, type the following commands: 
 
 ```
