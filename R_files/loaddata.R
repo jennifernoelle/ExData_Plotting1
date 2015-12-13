@@ -1,8 +1,8 @@
 ## Exploratory Data Analysis 
 ## Project 1
 
-##Set working directory
-setwd("~/Dropbox/Coursera/exploratory_data_analysis")
+##Set your working directory
+
 
 ## Loading the Data
 fileurl <- "http://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip"
